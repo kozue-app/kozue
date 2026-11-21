@@ -17,3 +17,7 @@ Los instaladores aún no están firmados: Windows SmartScreen puede avisar la pr
 En Kozue, Ajustes → Diagnóstico → Errores → «Enviar a GitHub…», o abre un [issue](https://github.com/kozue-app/kozue/issues) aquí.
 
 Este repositorio solo publica las versiones; el código fuente no es público.
+
+## Privacidad
+
+Kozue no tiene servidores propios ni recoge datos de uso: [política de privacidad](PRIVACY.es.md) · [privacy policy](PRIVACY.md).

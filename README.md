@@ -23,3 +23,7 @@ Este repositorio solo publica las versiones; el código fuente no es público.
 ## Privacidad
 
 Kozue no tiene servidores propios ni recoge datos de uso: [política de privacidad](PRIVACY.es.md) · [privacy policy](PRIVACY.md).
+
+## Licencia
+
+Kozue es gratis y de código cerrado: [licencia de uso](EULA.es.md) · [license agreement](EULA.md). Las licencias de los componentes de terceros van junto a Kozue.exe (THIRD_PARTY_NOTICES.txt).

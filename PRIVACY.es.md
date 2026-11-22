@@ -1,6 +1,6 @@
 # Política de privacidad de Kozue
 
-Última actualización: 21 de noviembre de 2026
+Última actualización: 22 de noviembre de 2026
 
 [English](PRIVACY.md)
 
@@ -49,6 +49,10 @@ Kozue no envía errores por su cuenta. En Ajustes → Diagnóstico puedes ver, c
 ## Descargas y actualizaciones
 
 Si descargas Kozue desde la Microsoft Store, winget o GitHub, Microsoft o GitHub tratan los datos de esa descarga según sus propias políticas. Kozue no recibe esos datos.
+
+## Esta web (kozue.app)
+
+La web kozue.app está alojada en GitHub Pages (GitHub, Inc.). Al visitarla, GitHub recibe tu dirección IP y los datos normales de una petición web para servirte las páginas y proteger el servicio, según su propia política de privacidad. La web no usa cookies, analítica ni contenido de terceros: las fuentes tipográficas se sirven desde la propia web. Si eliges un idioma, se guarda en tu navegador (almacenamiento local) para mostrarte ese idioma la próxima vez; no sale de tu navegador.
 
 ## Menores
 

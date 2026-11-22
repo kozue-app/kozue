@@ -1,16 +1,18 @@
 # Kozue
 
-Lector de feeds (RSS, Atom, JSON Feed) para Windows. Funciona sin servidor, guardando todo en tu PC, o con Miniflux y otros servicios RSS.
+Lector de feeds (RSS, Atom, JSON Feed) para Windows · [kozue-app.github.io](https://kozue-app.github.io/). Funciona sin servidor, guardando todo en tu PC, o con Miniflux y otros servicios RSS.
 
 ## Descargar
 
-En [Releases](https://github.com/kozue-app/kozue/releases), la última versión:
+En la [Microsoft Store](https://apps.microsoft.com/detail/9N1N12TKRVL7) (gratis, firmada y con actualizaciones automáticas) o desde la terminal: `winget install 9N1N12TKRVL7 --source msstore`.
+
+O en [Releases](https://github.com/kozue-app/kozue/releases), la última versión:
 
 - `Kozue-Setup-X.Y.Z.exe`: instalador (solo para tu usuario, sin permisos de administrador, o para todos).
 - `Kozue-X.Y.Z-portable.exe`: versión portátil, sin instalar.
 - `Kozue-X.Y.Z-sbom.cdx.json`: lista de componentes (SBOM, CycloneDX).
 
-Los instaladores aún no están firmados: Windows SmartScreen puede avisar la primera vez («Más información» → «Ejecutar de todas formas»).
+Los instaladores de Releases aún no están firmados (la versión de la Store sí): Windows SmartScreen puede avisar la primera vez («Más información» → «Ejecutar de todas formas»).
 
 ## Informar de un error
 
